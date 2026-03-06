@@ -8,7 +8,7 @@ This project analyzes how **academic performance, internships, skills, and speci
 
 # 📊 Dashboard Preview
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](global-student-placement-dashboard/dashboard.png)
 
 The dashboard provides insights into:
 
